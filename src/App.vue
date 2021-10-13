@@ -23,6 +23,11 @@
 </template>
 
 <style>
+@font-face {
+  font-family: NewsGotTDem;
+  src: local("NewsGotTDem"),
+       url('./assets/police/NewsGotTDem.ttf');
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -46,6 +51,8 @@ body{
 }
 #nav a {
   color: #ffff;
+  font-family: NewsGotTDem;
+  font-size: 20px;
 }
 #nav a:hover {
   color: black;

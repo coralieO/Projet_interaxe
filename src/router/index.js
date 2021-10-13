@@ -6,6 +6,7 @@ import EdSheeran from '../views/EdSheeran.vue'
 import LilNasX from '../views/LilNasX.vue'
 import Maroon5 from '../views/Maroon5.vue'
 import NotesDemusique from '../views/NotesDemusique.vue'
+import Tutoriel from '../views/Tutoriel.vue'
 
 const routes = [
   {
@@ -43,6 +44,11 @@ const routes = [
     name: 'Notes De musique',
     component: NotesDemusique
   },
+  {
+    path: '/Tutoriel',
+    name: 'Tutoriel',
+    component: Tutoriel
+  }
  
 ]
 

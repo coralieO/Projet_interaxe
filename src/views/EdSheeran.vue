@@ -57,9 +57,11 @@ body{
    font-size: 18px;
    margin-right: 40px;
 }
+.artiste {
+ text-align: right;
+}
 .artiste img{
  width: 90%;
- text-align: right;
 }
 </style>
 <script>

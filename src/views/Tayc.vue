@@ -75,10 +75,12 @@ body{
    font-size: 18px;
    
 }
-
+.artiste {
+ text-align: right;
+}
 .artiste img{
  width: 80%;
- text-align: right;
+
 }
 </style>
 <script>
