@@ -1,7 +1,7 @@
 <template>
 <div>
   <div id="nav">
-    <div>
+    <div class="logo">
     <router-link to="/"><img src="./assets/UNIVERSEL@2x.png" id="logo" alt=""></router-link> 
     </div>
     <div id="menu">
@@ -28,36 +28,45 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #d7e3fb;
-  
+  background-color: #e8c025; 
+  color: #ffff;
 }
 body{
-   background-color: #e8c025; 
+   
    margin: 0;
 }
 #nav {
-  padding: 30px;
+  margin: 0px 60px 20px 60px;
   display: flex;
   height: 20vh;
  
 }
-
+.logo{
+  text-align: left;
+}
 #nav a {
-  font-weight: bold;
-  color: aquamarine;
+  color: #ffff;
+}
+#nav a:hover {
+  color: black;
 }
 #menu{
   width: 100%;
+  z-index: 2;
+  margin-right: 30px;
 }
 #menu ul{
   display: flex;
   justify-content: space-around;
   list-style: none;
-  width: 50%;
   float: right;
+  padding: 0;
 }
 #menu ul a {
   text-decoration: none;
+}
+#menu ul li{
+  padding-right: 30px;
 }
 #hidden{
   opacity: 0;
