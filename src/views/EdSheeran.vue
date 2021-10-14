@@ -3,16 +3,16 @@
         <img class="trace" src="../assets/Tracé2.png" alt="">
        <div id="bio">
            <div class="bio">
-           <p>Ed Sheeran, né le 17 février 19<span>9</span>1 à Halifax dans le Yorkshire de l'Ouest, est un auteur-compositeur-interprète et guitariste anglais. 
+           <p>Ed Sheeran, né le 17 février 1991 à Halifax dans le Yorkshirede l'Ouest, est un auteur-compositeur-interprète et guitariste anglais. 
                Sa carrière professionnelle commence en 2011 avec la maison de disques Atlantic Records, qui signe son premier album, +, 
-               écoulé à <span> 4 </span>millions de copies1. Suivent les albums x (2014) et ÷ (2017), qui rencontrent un succès international encore plus grand2.
+               écoulé à 4 millions de copies1. Suivent les albums x (2014) et ÷ (2017), qui rencontrent un succès international encore plus grand2.
             </p>
             <p>Il écrit par ailleurs des chansons pour plusieurs autres artistes, tels que Justin Bieber, Taylor Swift, Robbie Williams, James Blunt ou encore les One Direction, BTS.</p>
             <p>Il signe un contrat avec le label Asylum Records, filiale d'Atlantic Records, au début de l'année 2011. Son premier album, +, 
                 sorti en septembre 2011, atteint la 1re place des ventes au Royaume-Uni7, où il figure parmi les dix meilleures ventes de l'année 20118. 
                 L'album connaît également le succès à l'international (no 1 en Australie, no <span>5</span> aux États-Unis et au Canada...), 
                 atteignant les 4 millions de copies vendues 9 grâce aux singles The A Team, You need me I don't need you,
-                 Lego House (qui se classent tous dans le Top 5 au Royaume-Uni), Drunk, Small Bump et Give me love.
+                 Lego House (qui se classent tous dans le Top 5 au <span>Royaume-Uni</span>), Drunk, Small Bump et Give me love.
                   The A-Team deviens son 1er international et se classe dans le top <span>1</span>0 dans plusieurs pays, lançant la carrière d'Ed Sheeran à travers le monde.</p>
        </div>
        <div class="artiste">
