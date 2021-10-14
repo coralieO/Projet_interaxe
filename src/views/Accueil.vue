@@ -31,7 +31,7 @@
     background-color: rgba(245, 245, 245, 0.578);
     width: 10%;
     right: 5%;
-    bottom: -10%;
+    bottom: 1%;
     POSITION: ABSOLUTE;
     padding: 10px 0px;
     color: black;
