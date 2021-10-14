@@ -23,6 +23,7 @@ h3 {
   color: white;
   font-size: 10px;
   padding-top: 6px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
 }
 
 </style>

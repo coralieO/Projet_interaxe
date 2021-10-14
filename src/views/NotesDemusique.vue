@@ -1,6 +1,6 @@
 <template>
     <div class="NotesDemusique">
-        <h2>DO MI SOl FA</h2>
+        <h2>DO MI SOL FA</h2>
     </div>
     <Footer/>
 </template>

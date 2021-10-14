@@ -49,6 +49,10 @@
     text-decoration: none;
     color: white;
 }
+.Tayct a:hover {
+
+    color: rgba(255, 255, 255, 0.591);
+}
 .trace{
   position: absolute;
     left: 62.43410%;

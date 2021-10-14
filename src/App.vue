@@ -37,7 +37,6 @@
   color: #ffff;
 }
 body{
-   
    margin: 0;
 }
 #nav {
